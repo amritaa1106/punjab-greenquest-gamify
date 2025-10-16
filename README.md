@@ -1,18 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to my Green Quest
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/daed995e-86f4-40ec-a775-ae625ab64115
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/daed995e-86f4-40ec-a775-ae625ab64115) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
